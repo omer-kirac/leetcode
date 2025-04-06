@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/omer-kirac/leetcode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omer-kirac/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omer-kirac/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/omer-kirac/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/omer-kirac/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omer-kirac/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/omer-kirac/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/omer-kirac/leetcode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omer-kirac/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
